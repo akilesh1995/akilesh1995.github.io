@@ -1,13 +1,13 @@
 # Site settings
 title: Akilesh Lakshminarayanan
-email: branham@utexas.edu
+email: akilesh1995@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a PhD Candidate in the Department of Government at UT-Austin.
-  I study American politics, public opinion, and methods.
+  Undergraduate student majoring in Computer Science and Economics, interested in Quantitative Finance, Data Science and their intersections.
+  I write code on R, Python and C++. Occational sports data nerd.
 # baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://jabranham.com" # the base hostname & protocol for your site
-twitter_username: JAlexBranham
-github_username:  jabranham
+url: "https://akileshlaksh.com" # the base hostname & protocol for your site
+twitter_username: isquaredminusone
+github_username:  akilesh1995
 permalink: /blog/:year/:month/:title.html
 gems:
   - jekyll-sitemap
