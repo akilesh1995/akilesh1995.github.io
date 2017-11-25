@@ -2,11 +2,11 @@
 title: Akilesh Lakshminarayanan
 email: akilesh1995@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Undergraduate student majoring in Computer Science and Economics, interested in Quantitative Finance, Data Science and their intersections.
+
   I write code on R, Python and C++. Occational sports data nerd.
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://akileshlaksh.com" # the base hostname & protocol for your site
-twitter_username: isquaredplusone
+twitter_username: leshtalks
 github_username:  akilesh1995
 permalink: /blog/:year/:month/:title.html
 gems:
